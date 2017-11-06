@@ -1,16 +1,24 @@
 body {
-  text-align: hor;
+  font-family: Helvetica;
 }
 
 h1 {
-  font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
   color: White;
 }
 
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
 a {
-  font-family: Helvetica;
   font-size: 18px;
   Color: White;
   display: inline-block;
