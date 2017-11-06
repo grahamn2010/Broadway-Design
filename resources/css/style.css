@@ -1,5 +1,6 @@
 body {
   font-family: Helvetica;
+  text-align: center;
 }
 
 h1 {
@@ -24,7 +25,10 @@ a {
   display: inline-block;
 }
 
+p {
+  font-size: 14px
+}
+
 .header {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
-  text-align: center;
 }
