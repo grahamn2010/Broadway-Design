@@ -29,15 +29,17 @@ h4 {
   color: White;
 }
 
-a {
-  font-size: 18px;
-  Color: White;
-  display: inline-block;
-}
-
 p {
   font-size: 14px;
   font-weight: bold;
+}
+
+ul,
+a {
+  font-size: 18px;
+  Color: White;
+  text-decoration: underline;
+  list-style-type: none;
 }
 
 .header {
@@ -49,7 +51,7 @@ p {
   background-color: White;
 }
 
-#copyright {
+.footer {
   font-size: 11px;
   color: White;
   background-color: dimgrey;
