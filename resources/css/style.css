@@ -30,6 +30,7 @@ p {
   font-weight: bold;
 }
 
+
 ul,
 a {
   font-size: 18px;
@@ -53,4 +54,8 @@ a {
   color: White;
   background-color: dimgrey;
   text-align: left;
+}
+
+.padding-top {
+  padding-top: 20px;
 }
