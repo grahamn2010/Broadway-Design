@@ -39,8 +39,8 @@ a {
   list-style-type: none;
 }
 
-footer p {
-  display: inline-block;
+.padding-top {
+  padding-top: 30px
 }
 
 .background {
