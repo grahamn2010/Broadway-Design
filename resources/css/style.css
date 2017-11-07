@@ -3,10 +3,6 @@ body {
   text-align: center;
 }
 
-footer {
-  text-align: left;
-}
-
 h1 {
   font-size: 70px;
   font-weight: bold;
@@ -42,6 +38,7 @@ a {
   list-style-type: none;
 }
 
+
 .header {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
   background-size: 100%;
@@ -55,4 +52,5 @@ a {
   font-size: 11px;
   color: White;
   background-color: dimgrey;
+  text-align: left;
 }
