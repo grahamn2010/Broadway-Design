@@ -1,6 +1,7 @@
-body {
+* {
   font-family: Helvetica;
   text-align: center;
+  box-sizing: border-box;
 }
 
 h1 {
@@ -54,8 +55,10 @@ a {
   color: White;
   background-color: dimgrey;
   text-align: left;
+
 }
 
-.padding-top {
-  padding-top: 20px;
+
+footer p {
+  display: inline-block;
 }
