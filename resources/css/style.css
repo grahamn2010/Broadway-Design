@@ -39,6 +39,10 @@ a {
   list-style-type: none;
 }
 
+footer p {
+  display: inline;
+}
+
 .padding-top {
   padding-top: 30px
 }
